@@ -32,7 +32,6 @@ research/
 │   └── ...
 ├── experiments/
 │   ├── gated-vs-ungated/
-│   │   ├── README.md
 │   │   ├── configs/
 │   │   ├── logs/
 │   │   └── results/
